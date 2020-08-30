@@ -1,0 +1,14 @@
+(S) - start / resume
+(P) - pause
+(R) - resume
+(Z) - show grid
+(X) - hide grid
+
+(alt + F4) - quit
+
+arrows - movements
+
+Goal - to reach the target size lol
+Note that when the food is closer to Color red, it will spoil. 
+But don't worry, they know how to recover (back to Color green).
+Eat spoiled food to decrease your size and eat fresh food to increase.
